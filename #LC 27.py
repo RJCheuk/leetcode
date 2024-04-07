@@ -1,4 +1,4 @@
-#LC 27.py 快慢指针原地移除元素
+#LC 27.py
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
         fast, slow = 0, 0
